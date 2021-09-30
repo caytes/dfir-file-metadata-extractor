@@ -5,7 +5,6 @@ Version: Python 3.7
 Script: GetFileMetadata.py
 Purpose: Retrieve System Information, IP Address, File Metadata, & Permissions from a Windows machine
 
-The GetFileMetadata.py script builds onto the Week 4 Lab file (forensicFileRecorder.py). 
 This script is useful in DFIR as it can automate extracting System Information,
 the Local IP address, File Metadata, and File Permissions
 
